@@ -5,8 +5,8 @@
 ######################################################################################
 
 # MadCap file patterns
-/Output
-/Analyzer
+# /Output
+#/Analyzer
 /FileSync
 /Project/Users
 /.svn
